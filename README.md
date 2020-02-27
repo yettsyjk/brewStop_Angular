@@ -1,4 +1,10 @@
 # brewStop_Angular
+## Angular 8 app created by SOftware Developer Yettsy J Knapp 
+1. Developer located in Denver, CO
+1. Let's Connect [www.linkedin.com/in/yettsy-jo-knapp]
+1. Follow me on Github [www.github.com/yettsyjk]
+
+## Setting up Angular App
 1. Creating an app on Heroku using Angular8 
 1. Install dependencies the Angular CLI with the following command: npm install -g @angular/cli
 1. create a new Angular 8 project in CLI: ng new myapp for this app is pubCrawl so I enter ng new pubCrawl
