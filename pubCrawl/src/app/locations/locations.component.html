@@ -1,0 +1,12 @@
+<h1>Breweries All Around</h1>
+    <ul *ngIf="brews">
+        <li *ngFor="let brew of brews">
+            <p class="name">{{ brew.name }}</p>
+             <p class="street">{{ brew.street }}</p>
+            <p class="city">{{ brew.city }}</p>
+            <p class="state">{{ brew.state }}</p>
+             <p class="postal_code">{{ brew.postal_code }}</p>
+              <p class="phone">{{ brew.phone }}</p>
+            <a class="site" href="{{ brew.website_url}}" target="_blank">website</a>
+        </li>
+    </ul>
