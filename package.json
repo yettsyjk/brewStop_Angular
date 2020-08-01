@@ -1,0 +1,22 @@
+{
+  "name": "brewstop_angular",
+  "version": "1.0.0",
+  "description": "angualr app using api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yettsyjk/brewStop_Angular.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Yettsy Knapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yettsyjk/brewStop_Angular/issues"
+  },
+  "homepage": "https://github.com/yettsyjk/brewStop_Angular#readme"
+}
